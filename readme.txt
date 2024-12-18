@@ -1,4 +1,2 @@
-6513112 ธนกฤต ชุติวงศ์ธนะพัฒน์
-6513117 พรพจน์ หมั่นดี
-6513119 ภูเบศ จุฬานันทวัฒนา
-6513177 อนันดา คงเกิด
+## Overview
+This project is a Java-based game application. It includes various game components such as entities, objects, sounds, tiles, and user interfaces. The game window is managed using JPanel and JFrame, and the game logic is implemented using multiple classes.
